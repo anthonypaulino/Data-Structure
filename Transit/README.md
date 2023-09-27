@@ -1,10 +1,6 @@
 # Programming Assignment - Transit
 
-The purpose of this assignment is to practice your understanding of linked structures.
-
-Start your assignment early! **This assignment is substantially harder than the previous assignment.** You need time to understand the assignment and to answer the many questions that will arise as you read the description and the code provided.
-
-Refer to our [Programming Assignments FAQ](https://ds.cs.rutgers.edu/assignment-faq/) for instructions on how to install VSCode, how to use the command line and how to submit your assignments.
+The purpose of this assignment is to practice understanding of linked structures.
 
 ## Overview
 
