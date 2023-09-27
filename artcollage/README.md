@@ -1,8 +1,6 @@
 # Programming Assignment - Art Collage
 
-This assignment you will create a collage of images.
-
-Refer to our [Programming Assignments FAQ](https://ds.cs.rutgers.edu/assignment-faq/) for instructions on how to install VSCode, how to use the command line and how to submit your assignments.
+In this assignment you will create a collage of images, The purpose of this assignment is to practice your understanding of dimensional arrays.
 
 ## Overview
 
