@@ -2,10 +2,6 @@
 
 The purpose of this assignment is to practice your understanding of the tree data structure.
 
-**Start your assignment early!** You need time to understand the assignment and to answer the many questions that will arise as you read the description and the code provided.
-
-Refer to our [Programming Assignments FAQ](https://ds.cs.rutgers.edu/assignment-faq/) for instructions on how to install VSCode, how to use the command line and how to submit your assignments.
-
 ## Overview
 
 The goal of this assignment is to implement a form of **data compression**. That is, given some data, we want to express the same information using less space. For this project, we will specifically focus on compressing text files, so we must first understand how computers represent text internally.
@@ -282,10 +278,7 @@ The file has been decoded into decoded.txt
 
 -   Collaboration policy. Read our [collaboration policy here](https://ds.cs.rutgers.edu/#academic-integrity).
 -   Submitting the assignment. Submit `HuffmanCoding.java` separately via the web submission system called Autolab. To do this, click the `Assignments` link from the course website; click the `Submit` link for that assignment.
-
-## Getting help
-
-If anything is unclear, don't hesitate to drop by office hours or post a question on Piazza. Find instructors office hours by clicking the [Staff](https://ds.cs.rutgers.edu/staff/) link from the course website. In addition to office hours we have the [CAVE](https://resources.cs.rutgers.edu/docs/rooms-equipment/cave/) (Collaborative Academic Versatile Environment), a community space staffed with lab assistants which are undergraduate students further along the CS major to answer questions.
+Environment), a community space staffed with lab assistants which are undergraduate students further along the CS major to answer questions.
 
 ## Credits
 
